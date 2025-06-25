@@ -61,10 +61,9 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- [北京科技有限公司](https://lusun.com/) &emsp; 📌 2022-03-04 —— 2024-08-28
+- [QD某科技有限公司](https://lusun.com/) &emsp; 📌 2022-03-04 —— 至今
 
-  - 工作岗位：软件研发工程师
-  - 工作内容：软件开发与维护
+  - 工作岗位：软开，算法
 
 </td></tr>
 
